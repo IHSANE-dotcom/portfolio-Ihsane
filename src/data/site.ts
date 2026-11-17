@@ -6,9 +6,9 @@
 export const site = {
   name: "Ihsane Foudal",
   initials: "IF",
-  role: "Data Engineering & Software Engineering",
+  role: "Data Engineering, AI, BI",
   school: "ENSA Khouribga",
-  city: "Khouribga, Maroc",
+  city: "Maroc",
   introduction:
     "Élève ingénieure en dernière année d'Informatique & Ingénierie des Données, je transforme des données complexes en solutions utiles et des idées en applications concrètes.",
   pitch:
